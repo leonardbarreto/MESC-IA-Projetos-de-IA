@@ -24,6 +24,7 @@ Esta coleção segue uma progressão lógica do básico ao avançado:
 # 1. Clone o repositório
 ```bash
 git clone [link](https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git)
+```
 cd MESC-IA
 
 # 2. Instale as dependências (opcional: crie um ambiente virtual primeiro)
