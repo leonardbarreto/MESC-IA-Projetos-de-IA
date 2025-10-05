@@ -21,7 +21,7 @@ Esta coleção segue uma progressão lógica do básico ao avançado:
 
 ## Configuração rápida
 # 1. Clone o repositório
-git clone [https://github.com/seu-usuario/MESC-IA.git](https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git)
+git clone [https://github.com/seu-usuario/MESC-IA.git](https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git]
 cd MESC-IA
 
 # 2. Instale as dependências (opcional: crie um ambiente virtual primeiro)
