@@ -9,6 +9,8 @@ Esta coleção segue uma progressão lógica do básico ao avançado:
 - **Fase 2**: Validação robusta e otimização de hiperparâmetros  
 - **Fase 3**: Engenharia de features
 - **Fase 4**: Redes Neurais Artificiais
+- **Fase 5**: Introdução ao _Deep Learning_
+
 
 ## 🚀 Começando Aqui
 
@@ -17,7 +19,4 @@ Esta coleção segue uma progressão lógica do básico ao avançado:
 2. Siga a ordem numérica dos projetos dentro de cada fase
 3. Use os projetos anteriores como base para os próximos
 
-### Estrutura Recomendada de Estudo
-```mermaid
-graph LR
-A[F1 Fundamentos] --> B[F2 Otimização] --> C[F3 Features] --> D[F4 RNAs]
+
