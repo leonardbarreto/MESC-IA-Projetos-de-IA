@@ -23,7 +23,7 @@ Esta coleção segue uma progressão lógica do básico ao avançado:
 
 # 1. Clone o repositório
 ```bash
-git clone [https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git]
+git clone https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git
 ```
 cd MESC-IA
 
