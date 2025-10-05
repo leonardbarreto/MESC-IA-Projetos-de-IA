@@ -19,4 +19,13 @@ Esta coleção segue uma progressão lógica do básico ao avançado:
 2. Siga a ordem numérica dos projetos dentro de cada fase
 3. Use os projetos anteriores como base para os próximos
 
+## Configuração rápida
+# 1. Clone o repositório
+git clone https://github.com/seu-usuario/MESC-IA.git
+cd MESC-IA
 
+# 2. Instale as dependências (opcional: crie um ambiente virtual primeiro)
+pip install -r requirements.txt
+
+# 3. Execute o Jupyter para explorar os projetos
+jupyter notebook
