@@ -21,7 +21,8 @@ Esta coleção segue uma progressão lógica do básico ao avançado:
 
 ## Configuração rápida
 
-# 1. Clone o repositório https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git
+# 1. Clonar o repositório 
+Clone o repositório https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git
 ```bash
 git clone https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git
 ```
