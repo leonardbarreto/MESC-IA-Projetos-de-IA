@@ -34,9 +34,9 @@ pip install -r requirements.txt
 # Execute o MLflow UI (opcional)
 mlflow ui --backend-store-uri mlruns/
 
-## 📅 Estrutura Semanal
+## 3. 📅 Estrutura Semanal
 
-# 🎓 Disciplina de Mestrado em Inteligência Artificial
+# 🎓 Disciplina de Inteligência Artificial - MESC
 
 Este repositório reúne materiais, códigos e projetos desenvolvidos ao longo da disciplina de **Inteligência Artificial** no mestrado, seguindo uma estrutura organizada e reprodutível para aprendizado e experimentação.
 
