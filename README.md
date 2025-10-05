@@ -20,13 +20,16 @@ Esta coleção segue uma progressão lógica do básico ao avançado:
 3. Use os projetos anteriores como base para os próximos
 
 ## Configuração rápida
-# 1. Clone o repositório
-git clone [https://github.com/seu-usuario/MESC-IA.git](https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git]
 
+# 1. Clone o repositório
+```bash
+git clone [https://github.com/seu-usuario/MESC-IA.git](https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git]
 cd MESC-IA
 
 # 2. Instale as dependências (opcional: crie um ambiente virtual primeiro)
 pip install -r requirements.txt
 
-# 3. Execute o Jupyter para explorar os projetos
-jupyter notebook
+# Execute o MLflow UI (opcional)
+mlflow ui --backend-store-uri mlruns/
+
+
