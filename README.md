@@ -29,11 +29,14 @@ git clone https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git
 cd MESC-IA
 
 # 2. Instalar as dependências (opcional: crie um ambiente virtual primeiro)
+
+```bash
 pip install -r requirements.txt
-
+```
 # Execute o MLflow UI (opcional)
+```bash
 mlflow ui --backend-store-uri mlruns/
-
+```
 ## 3. 📅 Estrutura Semanal
 
 # 🎓 Disciplina de Inteligência Artificial - MESC
