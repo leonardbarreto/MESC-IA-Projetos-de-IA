@@ -163,5 +163,8 @@ O conteúdo está organizado em semanas, cada uma com temas específicos, ativid
 
 ## 📂 Estrutura Geral dos Projetos
 
-Cada projeto segue o padrão **Cookiecutter Data Science**:
+Cada projeto segue o padrão **Cookiecutter Data Science**: 
+```bash
+https://cookiecutter-data-science.drivendata.org/
+```
 
