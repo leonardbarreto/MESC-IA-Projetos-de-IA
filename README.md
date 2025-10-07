@@ -43,8 +43,9 @@ conda env update -f environment.yml --prune
 conda activate py3-11-13
 ```
 
-# ⚠️ Evite criar novos ambientes Conda por subprojeto, a menos que haja conflito de pacotes.
+#* ⚠️ Evite criar novos ambientes Conda por subprojeto, a menos que haja conflito de pacotes.
 
+---
 
 # 🎓 Disciplina de Inteligência Artificial - MESC
 
