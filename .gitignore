@@ -1,0 +1,19 @@
+# Ignorar tudo dentro de mlflow_ccds/data/ exceto o raw inicial
+basic_00_mlflow_ccds/mlflow_ccds/data/processed/
+basic_00_mlflow_ccds/mlflow_ccds/data/mlruns/
+
+# Ignorar modelos
+basic_00_mlflow_ccds/mlflow_ccds/models/
+
+# Ignorar figuras
+basic_00_mlflow_ccds/mlflow_ccds/figures/
+
+# Ignorar __pycache__ e arquivos python compilados
+basic_00_mlflow_ccds/mlflow_ccds/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignorar arquivos de IDEs
+.vscode/
+*.idea/
