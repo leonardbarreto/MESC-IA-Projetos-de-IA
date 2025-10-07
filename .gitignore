@@ -1,19 +1,45 @@
-# Ignorar tudo dentro de mlflow_ccds/data/ exceto o raw inicial
-basic_00_mlflow_ccds/mlflow_ccds/data/processed/
-basic_00_mlflow_ccds/mlflow_ccds/data/mlruns/
-
-# Ignorar modelos
-basic_00_mlflow_ccds/mlflow_ccds/models/
-
-# Ignorar figuras
-basic_00_mlflow_ccds/mlflow_ccds/figures/
-
-# Ignorar __pycache__ e arquivos python compilados
-basic_00_mlflow_ccds/mlflow_ccds/__pycache__/
+# ===============================
+# Ignore geral para projeto Python
+# ===============================
+__pycache__/
 *.pyc
 *.pyo
 *.pyd
+*.so
+*.log
+*.tmp
+*.swp
+*.swo
 
-# Ignorar arquivos de IDEs
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Arquivos temporários de IDE
 .vscode/
-*.idea/
+.idea/
+*.code-workspace
+
+# ===============================
+# Ignore específico para mlflow_ccds
+# ===============================
+# Dados processados e temporários
+basic_00_mlflow_ccds/mlflow_ccds/data/processed/
+basic_00_mlflow_ccds/mlflow_ccds/data/interim/
+basic_00_mlflow_ccds/mlflow_ccds/data/mlruns/
+
+# Modelos treinados
+basic_00_mlflow_ccds/mlflow_ccds/models/
+
+# Figuras e gráficos gerados
+basic_00_mlflow_ccds/mlflow_ccds/figures/
+
+# Checkpoints ou arquivos auxiliares
+basic_00_mlflow_ccds/mlflow_ccds/checkpoints/
+basic_00_mlflow_ccds/mlflow_ccds/outputs/
+
+# ===============================
+# Ignore para notebooks auxiliares
+# ===============================
+*.ipynb_checkpoints
