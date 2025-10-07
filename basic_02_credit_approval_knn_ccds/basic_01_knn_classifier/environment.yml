@@ -1,15 +1,24 @@
-name: knn_classifier
+name: py3-11-13
 channels:
   - conda-forge
+  - defaults
 dependencies:
   - python=3.11.13
   - pip
-  - typer
-  - loguru
-  - tqdm
-  - ruff
+  - mlflow=2.13.0
+  - scikit-learn=1.5.0
+  - pandas=2.2.2
+  - numpy=1.26.4
+  - ipykernel
   - pip:
-    - python-dotenv
-    - mkdocs
-    - seaborn
-    - -e .
+      - joblib==1.4.2
+      - dotenv
+      - loguru
+      - typer
+      - tqdm
+      - -e .
+
+# Extras para projetos de deep learning
+# - tensorflow=2.15
+# - torch=2.2.0
+# - torchvision
