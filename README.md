@@ -26,18 +26,25 @@ Clone o repositório https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.gi
 ```bash
 git clone https://github.com/leonardbarreto/MESC-IA-Projetos-de-IA.git
 ```
-cd MESC-IA
+# ⚠️ Aviso sobre o ambiente Conda
 
-# 2. Instalar as dependências (opcional: crie um ambiente virtual primeiro)
+Todos os subprojetos deste repositório usam o mesmo ambiente Conda (`py3-11-13`).
 
+## Como instalar o ambiente
+Se ainda não tiver o ambiente, execute:
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yml
+conda activate py3-11-13
 ```
-# Execute o MLflow UI (opcional)
+## Como atualizar o ambiente
+Se houver alterações no environment.yml (novos pacotes ou versões):
 ```bash
-mlflow ui --backend-store-uri mlruns/
+conda env update -f environment.yml --prune
+conda activate py3-11-13
 ```
-## 3. 📅 Estrutura Semanal
+
+# ⚠️ Evite criar novos ambientes Conda por subprojeto, a menos que haja conflito de pacotes.
+
 
 # 🎓 Disciplina de Inteligência Artificial - MESC
 
