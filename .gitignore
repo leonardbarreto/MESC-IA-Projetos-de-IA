@@ -2,7 +2,7 @@
 # Ignore geral para projeto Python
 # ===============================
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
 *.so
@@ -22,24 +22,35 @@ env/
 *.code-workspace
 
 # ===============================
-# Ignore específico para mlflow_ccds
+# Ignore recursivo para projetos CCDS
 # ===============================
-# Dados processados e temporários
-basic_00_mlflow_ccds/mlflow_ccds/data/processed/
-basic_00_mlflow_ccds/mlflow_ccds/data/interim/
-basic_00_mlflow_ccds/mlflow_ccds/data/mlruns/
+# Dados temporários e processados
+**/data/processed/
+**/data/interim/
+**/data/mlruns/
+**/data/raw/*    # opcional, se quiser ignorar raw grandes
 
 # Modelos treinados
-basic_00_mlflow_ccds/mlflow_ccds/models/
+**/models/
 
-# Figuras e gráficos gerados
-basic_00_mlflow_ccds/mlflow_ccds/figures/
+# Figuras, gráficos e relatórios
+**/figures/
+**/reports/
 
-# Checkpoints ou arquivos auxiliares
-basic_00_mlflow_ccds/mlflow_ccds/checkpoints/
-basic_00_mlflow_ccds/mlflow_ccds/outputs/
+# Checkpoints e saídas temporárias
+**/checkpoints/
+**/outputs/
+**/tmp/
 
 # ===============================
-# Ignore para notebooks auxiliares
+# Ignore notebooks auxiliares
 # ===============================
 *.ipynb_checkpoints
+
+# ===============================
+# Ignore caches de bibliotecas comuns
+# ===============================
+*.egg-info/
+dist/
+build/
+*.egg
