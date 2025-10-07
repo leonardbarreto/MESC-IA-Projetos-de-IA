@@ -66,20 +66,19 @@ O conteúdo está organizado em semanas, cada uma com temas específicos, ativid
 - Atividade: Pipeline básico de ML com tracking
 
 ---
-
-### **SEMANA 3 — Regressão**
-- Algoritmos de regressão: Linear, Polinomial, Random Forest
-- Métricas: MSE, RMSE, R², MAE
-- Validação cruzada para regressão
-- Tarefa: Previsão de preços de imóveis (Boston Housing)
-
----
-
-### **SEMANA 4 — Classificação Binária**
+### **SEMANA 3 — Classificação Binária**
 - Logistic Regression, SVM, Naive Bayes
 - Métricas: Accuracy, Precision, Recall, F1, AUC-ROC
 - Curvas de aprendizado
 - Tarefa: Detecção de fraudes em transações
+
+---
+
+### **SEMANA 4 — Regressão**
+- Algoritmos de regressão: Linear, Polinomial, Random Forest
+- Métricas: MSE, RMSE, R², MAE
+- Validação cruzada para regressão
+- Tarefa: Previsão de preços de imóveis (Boston Housing)
 
 ---
 
