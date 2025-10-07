@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858004867310468504/64fde3cedaed49658f7dfc22fd0c1e89/artifacts
+end_time: 1759855043233
+entry_point_name: ''
+experiment_id: '858004867310468504'
+lifecycle_stage: active
+run_id: 64fde3cedaed49658f7dfc22fd0c1e89
+run_name: fearless-snake-901
+run_uuid: 64fde3cedaed49658f7dfc22fd0c1e89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759855043191
+status: 4
+tags: []
+user_id: leona

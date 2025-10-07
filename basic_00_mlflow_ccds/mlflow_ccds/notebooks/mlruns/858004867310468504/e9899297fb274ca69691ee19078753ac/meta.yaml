@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858004867310468504/e9899297fb274ca69691ee19078753ac/artifacts
+end_time: 1759857130214
+entry_point_name: ''
+experiment_id: '858004867310468504'
+lifecycle_stage: active
+run_id: e9899297fb274ca69691ee19078753ac
+run_name: brawny-shrew-957
+run_uuid: e9899297fb274ca69691ee19078753ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759857126838
+status: 3
+tags: []
+user_id: leona

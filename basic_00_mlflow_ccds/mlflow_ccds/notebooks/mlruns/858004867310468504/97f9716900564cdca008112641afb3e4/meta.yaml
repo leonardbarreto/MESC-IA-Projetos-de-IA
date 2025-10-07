@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858004867310468504/97f9716900564cdca008112641afb3e4/artifacts
+end_time: 1759855238209
+entry_point_name: ''
+experiment_id: '858004867310468504'
+lifecycle_stage: active
+run_id: 97f9716900564cdca008112641afb3e4
+run_name: bouncy-asp-40
+run_uuid: 97f9716900564cdca008112641afb3e4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759855238170
+status: 4
+tags: []
+user_id: leona

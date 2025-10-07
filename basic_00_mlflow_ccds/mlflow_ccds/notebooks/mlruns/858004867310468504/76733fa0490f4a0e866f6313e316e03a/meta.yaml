@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858004867310468504/76733fa0490f4a0e866f6313e316e03a/artifacts
+end_time: 1759856987602
+entry_point_name: ''
+experiment_id: '858004867310468504'
+lifecycle_stage: active
+run_id: 76733fa0490f4a0e866f6313e316e03a
+run_name: unique-owl-682
+run_uuid: 76733fa0490f4a0e866f6313e316e03a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759856984025
+status: 3
+tags: []
+user_id: leona

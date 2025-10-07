@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858004867310468504/1429d1d5f8da4c72857edc04e5dd9c1f/artifacts
+end_time: 1759857509785
+entry_point_name: ''
+experiment_id: '858004867310468504'
+lifecycle_stage: active
+run_id: 1429d1d5f8da4c72857edc04e5dd9c1f
+run_name: gregarious-lynx-452
+run_uuid: 1429d1d5f8da4c72857edc04e5dd9c1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759857509761
+status: 4
+tags: []
+user_id: leona

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858004867310468504/557d11e204d64460bcb2b57de53660cd/artifacts
+end_time: 1759858537272
+entry_point_name: ''
+experiment_id: '858004867310468504'
+lifecycle_stage: active
+run_id: 557d11e204d64460bcb2b57de53660cd
+run_name: adorable-steed-668
+run_uuid: 557d11e204d64460bcb2b57de53660cd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759858533429
+status: 3
+tags: []
+user_id: leona

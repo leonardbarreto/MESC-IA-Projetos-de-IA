@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/858004867310468504/a0d0fe51bdac47089162694f63ad51ac/artifacts
+end_time: 1759857260148
+entry_point_name: ''
+experiment_id: '858004867310468504'
+lifecycle_stage: active
+run_id: a0d0fe51bdac47089162694f63ad51ac
+run_name: inquisitive-ape-661
+run_uuid: a0d0fe51bdac47089162694f63ad51ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759857256503
+status: 3
+tags: []
+user_id: leona
