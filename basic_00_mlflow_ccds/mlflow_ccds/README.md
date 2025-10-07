@@ -75,7 +75,23 @@ conda env update -f environment.yml --prune
 ```bash
 conda activate _nome_do_ambiente_
 ```
+## 🔬 Referências Científicas e Técnicas (Resumo)
 
+### 1. Sobre Random Forests (Floresta Aleatória)
+
+O **Random Forest** é o principal algoritmo de classificação utilizado neste projeto. Ele é um método de aprendizado supervisionado que aumenta a precisão e a robustez ao construir múltiplas árvores de decisão e usar a média (para regressão) ou a moda (para classificação) de suas previsões.
+
+* O conceito foi formalmente consolidado por **Leo Breiman** em 2001.
+* **Referências de Leitura:**
+    * O trabalho seminal de **Breiman (2004)** sobre Random Forests.
+    * O Capítulo 8 de **"An Introduction to Statistical Learning"**, que discute métodos baseados em árvores.
+
+### 2. Sobre o Scikit-learn (sklearn)
+
+A implementação prática do modelo é feita usando a biblioteca **Scikit-learn** (`sklearn`).
+
+* O Scikit-learn é a biblioteca padrão em Python para Machine Learning, conhecida por sua uniformidade de API e vasta gama de algoritmos.
+* A escolha do `sklearn` segue a documentação e os padrões apresentados no paper de **Pedregosa et al. (2011)** que introduziu a biblioteca à comunidade científica.
 
 --------
 
