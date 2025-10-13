@@ -1,6 +1,0 @@
-artifact_location: mlflow-artifacts:/341580672406361855
-creation_time: 1759888890663
-experiment_id: '341580672406361855'
-last_update_time: 1759888890663
-lifecycle_stage: active
-name: boston_housing_experiment
