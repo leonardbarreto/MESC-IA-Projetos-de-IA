@@ -180,6 +180,10 @@ https://cookiecutter-data-science.drivendata.org/
 | 🧩 Projeto | 📘 Descrição | 🔗 Link |
 |:-----------|:-------------|:--------|
 | **basic_00_mlflow_ccds** | Estrutura base de MLOps com Cookiecutter e MLflow. | [🔗 GitHub](https://github.com/leonardbarreto/basic_00_mlflow_ccds) |
-| **basic_01_credit_approval_random_forest_ccds** | Classificador Boston. | [🔗 GitHub](https://github.com/leonardbarreto/basic_01_credit_approval_random_forest_ccds.git) |
+| **basic_01_credit_approval_random_forest_ccds** | Classificador Random Forest. | [🔗 GitHub](https://github.com/leonardbarreto/basic_01_credit_approval_random_forest_ccds.git) |
+| **basic_02_credit_approval_knn_ccds** | Classificador kNN. | [🔗 GitHub](https://github.com/leonardbarreto/basic_02_credit_approval_knn_ccds.git) |
+
+
+
 
 
