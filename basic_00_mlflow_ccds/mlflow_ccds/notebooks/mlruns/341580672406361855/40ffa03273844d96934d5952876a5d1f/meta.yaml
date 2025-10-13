@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/40ffa03273844d96934d5952876a5d1f/artifacts
+end_time: 1759891626552
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: 40ffa03273844d96934d5952876a5d1f
+run_name: intelligent-goat-994
+run_uuid: 40ffa03273844d96934d5952876a5d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759891623306
+status: 3
+tags: []
+user_id: leona

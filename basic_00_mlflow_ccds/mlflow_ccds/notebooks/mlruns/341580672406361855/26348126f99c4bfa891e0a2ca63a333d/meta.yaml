@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/26348126f99c4bfa891e0a2ca63a333d/artifacts
+end_time: 1759891119384
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: 26348126f99c4bfa891e0a2ca63a333d
+run_name: tasteful-ant-959
+run_uuid: 26348126f99c4bfa891e0a2ca63a333d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759891119346
+status: 4
+tags: []
+user_id: leona

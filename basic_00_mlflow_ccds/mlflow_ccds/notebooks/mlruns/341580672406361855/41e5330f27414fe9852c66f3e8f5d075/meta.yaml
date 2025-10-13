@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/41e5330f27414fe9852c66f3e8f5d075/artifacts
+end_time: 1759891337508
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: 41e5330f27414fe9852c66f3e8f5d075
+run_name: honorable-goose-982
+run_uuid: 41e5330f27414fe9852c66f3e8f5d075
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759891333632
+status: 3
+tags: []
+user_id: leona

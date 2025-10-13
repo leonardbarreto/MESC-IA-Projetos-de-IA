@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/55a8d20cde504a349182935be0e2c696/artifacts
+end_time: 1759890902703
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: 55a8d20cde504a349182935be0e2c696
+run_name: abundant-moth-614
+run_uuid: 55a8d20cde504a349182935be0e2c696
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759890898867
+status: 3
+tags: []
+user_id: leona

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/f55293028ce94b3f9352481e63b651dc/artifacts
+end_time: 1759890297169
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: f55293028ce94b3f9352481e63b651dc
+run_name: smiling-bug-359
+run_uuid: f55293028ce94b3f9352481e63b651dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759890293325
+status: 3
+tags: []
+user_id: leona

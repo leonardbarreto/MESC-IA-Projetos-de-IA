@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/2e8cb3906aab44a0ae62a210e103865c/artifacts
+end_time: 1759888891373
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: 2e8cb3906aab44a0ae62a210e103865c
+run_name: unleashed-mouse-739
+run_uuid: 2e8cb3906aab44a0ae62a210e103865c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759888891323
+status: 4
+tags: []
+user_id: leona

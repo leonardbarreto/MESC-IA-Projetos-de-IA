@@ -175,3 +175,10 @@ Cada projeto segue o padrão **Cookiecutter Data Science**:
 https://cookiecutter-data-science.drivendata.org/
 ```
 
+## 🚀 Subprojetos Individuais
+
+| 🧩 Projeto | 📘 Descrição | 🔗 Link |
+|:-----------|:-------------|:--------|
+| **basic_00_mlflow_ccds** | Estrutura base de MLOps com Cookiecutter e MLflow. | [🔗 GitHub](https://github.com/leonardbarreto/basic_00_mlflow_ccds) |
+
+

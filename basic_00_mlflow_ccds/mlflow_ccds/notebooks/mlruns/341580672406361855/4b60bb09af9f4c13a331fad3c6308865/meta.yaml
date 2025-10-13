@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/4b60bb09af9f4c13a331fad3c6308865/artifacts
+end_time: 1759891364712
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: 4b60bb09af9f4c13a331fad3c6308865
+run_name: sneaky-worm-547
+run_uuid: 4b60bb09af9f4c13a331fad3c6308865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759891361839
+status: 3
+tags: []
+user_id: leona

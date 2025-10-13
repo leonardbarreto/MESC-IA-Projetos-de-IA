@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/67cbe9d0645640dcbf4b371142c44955/artifacts
+end_time: 1759890984687
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: 67cbe9d0645640dcbf4b371142c44955
+run_name: rebellious-shoat-245
+run_uuid: 67cbe9d0645640dcbf4b371142c44955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759890981977
+status: 3
+tags: []
+user_id: leona

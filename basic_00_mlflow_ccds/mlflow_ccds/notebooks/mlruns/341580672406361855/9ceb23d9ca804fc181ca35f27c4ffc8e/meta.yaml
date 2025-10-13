@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/9ceb23d9ca804fc181ca35f27c4ffc8e/artifacts
+end_time: 1759891651117
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: 9ceb23d9ca804fc181ca35f27c4ffc8e
+run_name: able-zebra-259
+run_uuid: 9ceb23d9ca804fc181ca35f27c4ffc8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759891648238
+status: 3
+tags: []
+user_id: leona

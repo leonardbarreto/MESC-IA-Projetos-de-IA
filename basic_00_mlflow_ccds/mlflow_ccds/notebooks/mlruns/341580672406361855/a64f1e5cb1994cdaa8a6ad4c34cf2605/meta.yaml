@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/a64f1e5cb1994cdaa8a6ad4c34cf2605/artifacts
+end_time: 1759891139426
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: a64f1e5cb1994cdaa8a6ad4c34cf2605
+run_name: efficient-eel-602
+run_uuid: a64f1e5cb1994cdaa8a6ad4c34cf2605
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759891136725
+status: 3
+tags: []
+user_id: leona

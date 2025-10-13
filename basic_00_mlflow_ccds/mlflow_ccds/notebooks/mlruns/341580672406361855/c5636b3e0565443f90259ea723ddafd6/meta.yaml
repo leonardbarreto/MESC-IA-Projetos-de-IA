@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/341580672406361855/c5636b3e0565443f90259ea723ddafd6/artifacts
+end_time: 1759892010391
+entry_point_name: ''
+experiment_id: '341580672406361855'
+lifecycle_stage: active
+run_id: c5636b3e0565443f90259ea723ddafd6
+run_name: train_linear_regression
+run_uuid: c5636b3e0565443f90259ea723ddafd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759892007603
+status: 3
+tags: []
+user_id: leona
