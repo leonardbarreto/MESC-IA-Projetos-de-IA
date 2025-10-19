@@ -184,6 +184,10 @@ https://cookiecutter-data-science.drivendata.org/
 | **basic_02_credit_approval_knn_ccds** | Classificador kNN. | [🔗 GitHub](https://github.com/leonardbarreto/basic_02_credit_approval_knn_ccds.git) |
 | **basic_03_boston_housing** | Regressores: Random Forest, Linear Regression e kNN. | [🔗 GitHub](https://github.com/leonardbarreto/basic_03_boston_housing.git) |
 | **advanced_00_classifiy_regression_hyperOptimization_MLflow_ccds** | Classificadores e regressores com otimizador de hiperparâmetros. | [🔗 GitHub](https://github.com/leonardbarreto/advanced_00_classifiy_regression_hyperOptimization_MLflow_ccds.git) |
+| **advanced_00_classifiy_regression_hyperOptimization_MLflow_ccds** | Classificadores e regressores com otimizador de hiperparâmetros. | [🔗 GitHub](https://github.com/leonardbarreto/basic_00_clustering.git) |
+
+
+
 
 
 
