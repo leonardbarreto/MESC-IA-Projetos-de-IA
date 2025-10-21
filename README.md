@@ -184,7 +184,7 @@ https://cookiecutter-data-science.drivendata.org/
 | **basic_02_credit_approval_knn_ccds** | Classificador kNN. | [🔗 GitHub](https://github.com/leonardbarreto/basic_02_credit_approval_knn_ccds.git) |
 | **basic_03_boston_housing** | Regressores: Random Forest, Linear Regression e kNN com otimização de hiperparâmetros (Optuna) e MLflow. | [🔗 GitHub](https://github.com/leonardbarreto/basic_03_boston_housing.git) |
 | **advanced_00_classifiy_regression_hyperOptimization_MLflow_ccds** | Classificadores e regressores com otimização de hiperparâmetros (Optuna) e MLflow | [🔗 GitHub](https://github.com/leonardbarreto/advanced_00_classifiy_regression_hyperOptimization_MLflow_ccds.git) |
-| **basic_00_clustering** | Clustering com otimização de hiperparâmetros (Optuna) e MLflow | [🔗 GitHub](https://github.com/leonardbarreto/basic_00_clustering.git) |
+| **basic_00_clustering** | Clustering com otimização de hiperparâmetros (Optuna) e MLflow | [🔗 GitHub](https://github.com/leonardbarreto/basic_00_clustering.gitcd .) |
 
 
 
