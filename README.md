@@ -187,6 +187,7 @@ https://cookiecutter-data-science.drivendata.org/
 | **basic_00_clustering** | Clustering com otimização de hiperparâmetros (Optuna) e MLflow | [🔗 GitHub](https://github.com/leonardbarreto/basic_00_clustering.git) |
 | **basic_00_forecasting** | Técnicas de forecasting com otimização de hiperparâmetros (Optuna) e MLflow | [🔗 GitHub](https://github.com/leonardbarreto/basic_00_forecasting.git) |
 | **basic_00_rna** | Redes Neurais (MLP) com otimização de hiperparâmetros (Optuna) e MLflow | [🔗 GitHub](https://github.com/leonardbarreto/basic_00_rna.git) |
+| **basic_01_rna** | Redes Neurais (MLP) com otimização de hiperparâmetros (Optuna) e MLflow | [🔗 GitHub](https://github.com/leonardbarreto/basic_01_rna.git) |
 
 
 
